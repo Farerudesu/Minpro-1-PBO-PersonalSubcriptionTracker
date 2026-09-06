@@ -1,5 +1,5 @@
 # Minpro-1-PBO-PersonalSubscriptionTracker
-```text
+```
 +-------------------------+
 | Nama : Muhammad Fahriel |
 | NIM  : 2509116050       |
