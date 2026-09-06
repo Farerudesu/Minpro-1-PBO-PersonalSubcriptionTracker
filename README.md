@@ -1,9 +1,11 @@
 # Minpro-1-PBO-PersonalSubscriptionTracker
 
+'''
    +-------------------------+
    | Nama : Muhammad Fahriel |
    | NIM  : 2509116050       |  
    +-------------------------+
+   '''
 Aplikasi berbasis CLI yang dibangun dengan bahasa pemrograman Java untuk mencatat, mengelola, dan memantau pengeluaran biaya langganan bulanan pribadi.
 
 ## Deskripsi Singkat Program
